@@ -2,19 +2,18 @@
   "group": "tecf15",
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "0",
-    "1"
+    "01"
   ],
   "key": {
     "0": {
-      "item": "minecraft:oak_log"
+      "item": "tecf15:item_cacao_bean"
     },
     "1": {
-      "item": "minecraft:oak_log"
+      "item": "tecf15:item_pestle"
     }
   },
   "result": {
-    "item": "minecraft:stick",
-    "count": 16
+    "item": "tecf15:item_cacoa_powder",
+    "count": 1
   }
 }

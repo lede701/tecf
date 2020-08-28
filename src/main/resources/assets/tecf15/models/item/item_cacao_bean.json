@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "tecf15:items/cocoabean_texture"
+  }
+}

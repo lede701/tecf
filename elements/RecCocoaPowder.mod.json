@@ -10,19 +10,10 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.EMERALD"
+        "value": "CUSTOM:ItemCacaoBean"
       },
       {
-        "value": "Items.DIAMOND"
-      },
-      {
-        "value": ""
-      },
-      {
-        "value": "Items.DIAMOND"
-      },
-      {
-        "value": "Items.STICK"
+        "value": "CUSTOM:ItemPestle"
       },
       {
         "value": ""
@@ -31,16 +22,25 @@
         "value": ""
       },
       {
-        "value": "Items.STICK"
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
       },
       {
         "value": ""
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:DEToolsAxe"
+      "value": "CUSTOM:ItemCacoaPowder"
     },
-    "name": "de_tools_axe_recipe",
+    "name": "rec_cocoa_powder",
     "namespace": "mod"
   }
 }

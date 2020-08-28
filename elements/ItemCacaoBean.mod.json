@@ -3,13 +3,13 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "detools_shovel_head_texture",
+    "texture": "cocoabean_texture",
     "customModelName": "Normal",
-    "name": "DE Toola Shovel Head Item",
+    "name": "Item Cacao Bean",
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "DECORATIONS"
     },
-    "stackSize": 1,
+    "stackSize": 64,
     "enchantability": 0,
     "useDuration": 0,
     "toolType": 1.0,
