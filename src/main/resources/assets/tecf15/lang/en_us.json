@@ -1,7 +1,12 @@
 {
   "item.tecf15.emerald_axe_tool": "Emerald Axe Tool",
+  "item.tecf15.de_tools_shovel": "DETools Shovel",
+  "item.tecf15.de_tools_sword": "DETools Sword",
   "block.tecf15.super_furnace_block": "Super Furnace",
-  "item.tecf15.de_pickaxe_tool": "DE Pickaxe Tool",
+  "item.tecf15.de_tools_pickaxe": "DETools Pickaxe",
+  "item.tecf15.de_tools_axe": "DETools Axe",
+  "item.tecf15.de_tools_hoe": "DETools Hoe",
+  "item.tecf15.de_toola_shovel_head_item": "DE Toola Shovel Head Item",
   "item.tecf15.emerald_shovel_tool": "Emerald Shovel Tool",
   "item.tecf15.emerald_pickaxe": "Emerald Pickaxe"
 }

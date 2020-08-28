@@ -3,24 +3,24 @@
   "_type": "tool",
   "definition": {
     "renderType": 0,
-    "texture": "depickaxe_texture",
+    "texture": "detools_hoe",
     "customModelName": "Normal",
-    "name": "DE Pickaxe Tool",
+    "name": "DETools Hoe",
     "specialInfo": [],
     "creativeTab": {
       "value": "TOOLS"
     },
-    "toolType": "Pickaxe",
-    "harvestLevel": 3,
-    "efficiency": 11.0,
-    "attackSpeed": 2.0,
-    "enchantability": 4,
-    "damageVsEntity": 2.0,
-    "usageCount": 3500,
+    "toolType": "Hoe",
+    "harvestLevel": 8,
+    "efficiency": 14.0,
+    "attackSpeed": 1.0,
+    "enchantability": 56,
+    "damageVsEntity": 8.0,
+    "usageCount": 1741,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [],
     "stayInGridWhenCrafting": false,
-    "damageOnCrafting": true
+    "damageOnCrafting": false
   }
 }

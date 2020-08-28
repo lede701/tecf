@@ -1,0 +1,24 @@
+{
+  "group": "tecf15",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:emerald"
+    },
+    "1": {
+      "item": "minecraft:diamond"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "tecf15:de_tools_sword",
+    "count": 1
+  }
+}

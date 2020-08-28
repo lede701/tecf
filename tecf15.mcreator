@@ -110,22 +110,112 @@
       "registry_name": "emerald_shovel_recipe"
     },
     {
-      "name": "DEPickaxeTool",
+      "name": "DEToolsPickaxe",
       "type": "tool",
       "sortid": 12,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "de_pickaxe_tool"
+      "registry_name": "de_tools_pickaxe"
     },
     {
-      "name": "DEPickaxeRecipe",
-      "type": "recipe",
+      "name": "DEToolsAxe",
+      "type": "tool",
       "sortid": 13,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "de_pickaxe_recipe"
+      "registry_name": "de_tools_axe"
+    },
+    {
+      "name": "DEToolsSword",
+      "type": "tool",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "de_tools_sword"
+    },
+    {
+      "name": "DEToolsShovel",
+      "type": "tool",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "de_tools_shovel"
+    },
+    {
+      "name": "DEToolsHoe",
+      "type": "tool",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "de_tools_hoe"
+    },
+    {
+      "name": "DEToolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "de_tools_pickaxe_recipe"
+    },
+    {
+      "name": "DEToolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "de_tools_axe_recipe"
+    },
+    {
+      "name": "DEToolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "de_tools_sword_recipe"
+    },
+    {
+      "name": "DEToolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "de_tools_shovel_recipe"
+    },
+    {
+      "name": "DEToolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "de_tools_hoe_recipe"
+    },
+    {
+      "name": "DEToolsShovelHead",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "de_tools_shovel_head"
+    },
+    {
+      "name": "DEToolaShovelHeadItem",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "de_toola_shovel_head_item"
     }
   ],
   "variable_elements": [],
@@ -133,8 +223,13 @@
   "language_map": {
     "en_us": {
       "item.tecf15.emerald_axe_tool": "Emerald Axe Tool",
+      "item.tecf15.de_tools_shovel": "DETools Shovel",
+      "item.tecf15.de_tools_sword": "DETools Sword",
       "block.tecf15.super_furnace_block": "Super Furnace",
-      "item.tecf15.de_pickaxe_tool": "DE Pickaxe Tool",
+      "item.tecf15.de_tools_pickaxe": "DETools Pickaxe",
+      "item.tecf15.de_tools_axe": "DETools Axe",
+      "item.tecf15.de_tools_hoe": "DETools Hoe",
+      "item.tecf15.de_toola_shovel_head_item": "DE Toola Shovel Head Item",
       "item.tecf15.emerald_shovel_tool": "Emerald Shovel Tool",
       "item.tecf15.emerald_pickaxe": "Emerald Pickaxe"
     }

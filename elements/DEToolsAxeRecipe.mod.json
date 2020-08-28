@@ -10,9 +10,6 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "Items.DIAMOND"
-      },
-      {
         "value": "Items.EMERALD"
       },
       {
@@ -20,6 +17,9 @@
       },
       {
         "value": ""
+      },
+      {
+        "value": "Items.DIAMOND"
       },
       {
         "value": "Items.STICK"
@@ -38,9 +38,9 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:DEPickaxeTool"
+      "value": "CUSTOM:DEToolsAxe"
     },
-    "name": "de_pickaxe_recipe",
+    "name": "de_tools_axe_recipe",
     "namespace": "mod"
   }
 }
