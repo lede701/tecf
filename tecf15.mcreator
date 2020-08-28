@@ -1,0 +1,159 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "EmeraldPickaxe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_pickaxe"
+    },
+    {
+      "name": "EmeraldPickaxeRec",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_pickaxe_rec"
+    },
+    {
+      "name": "LogSticks",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "log_sticks"
+    },
+    {
+      "name": "SuperFurnace",
+      "type": "gui",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_furnace"
+    },
+    {
+      "name": "SuperFurnaceFule",
+      "type": "procedure",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_furnace_fule",
+      "metadata": {
+        "return_type": "NUMBER",
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SuperFurnaceBlock",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_furnace_block"
+    },
+    {
+      "name": "SuperFurnaceRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "super_furnace_recipe"
+    },
+    {
+      "name": "EmeraldAxeTool",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_axe_tool"
+    },
+    {
+      "name": "EmeraldShovelTool",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_shovel_tool"
+    },
+    {
+      "name": "EmeraldAxeRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_axe_recipe"
+    },
+    {
+      "name": "EmeraldShovelRecipe",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "emerald_shovel_recipe"
+    },
+    {
+      "name": "DEPickaxeTool",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "de_pickaxe_tool"
+    },
+    {
+      "name": "DEPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "de_pickaxe_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.tecf15.emerald_axe_tool": "Emerald Axe Tool",
+      "block.tecf15.super_furnace_block": "Super Furnace",
+      "item.tecf15.de_pickaxe_tool": "DE Pickaxe Tool",
+      "item.tecf15.emerald_shovel_tool": "Emerald Shovel Tool",
+      "item.tecf15.emerald_pickaxe": "Emerald Pickaxe"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "tecf15",
+    "modName": "TECF",
+    "version": "1.0.0",
+    "author": "lede",
+    "websiteURL": "https://www.zaxis-studios.com",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.tecf",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

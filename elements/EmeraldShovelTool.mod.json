@@ -1,0 +1,26 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "emeraldshoveltexture",
+    "customModelName": "Normal",
+    "name": "Emerald Shovel Tool",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 2,
+    "efficiency": 6.0,
+    "attackSpeed": 1.0,
+    "enchantability": 4,
+    "damageVsEntity": 3.0,
+    "usageCount": 3000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

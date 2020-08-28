@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="tecf15"
+version="1.0.0"
+displayName="TECF"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://www.zaxis-studios.com"
+authors="lede"
+
+[[dependencies.tecf15]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
